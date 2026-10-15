@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Johnson",
+    "specialty": "Cardiologist",
+    "image": "./images/1.png",
+    "description": "15+ years experience in cardiovascular medicine"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Michael Chen",
+    "specialty": "Pediatrician",
+    "image": "./images/2.png",
+    "description": "Specialized in child healthcare and development"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Davis",
+    "specialty": "General Practitioner",
+    "image": "./images/3.png",
+    "description": "Comprehensive primary care specialist"
+  }
+]

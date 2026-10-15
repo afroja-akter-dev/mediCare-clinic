@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "image": "./images/p1.png",
+    "review":
+      "Excellent care and professional staff. Dr. Johnson helped me with my heart condition and I'm feeling much better now."
+  },
+  {
+    "id": 2,
+    "name": "Maria Garcia",
+    "image": "./images/p2.png",
+    "review":
+      "The pediatric care for my children is outstanding. Dr. Chen is wonderful with kids and very knowledgeable."
+  },
+  {
+    "id": 3,
+    "name": "David Wilson",
+    "image": "./images/p3.png",
+    "review":
+      "Quick appointment scheduling and thorough examinations. The lab results were ready fast and accurate."
+  }
+]

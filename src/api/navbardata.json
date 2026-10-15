@@ -1,0 +1,33 @@
+[
+ {
+    "id" : 1 ,
+    "tittle" : "Home" ,
+    "path" : "/"
+ },
+  {
+    "id" : 2 ,
+    "tittle" : "About" ,
+    "path" : "/about"
+ },
+  {
+    "id" : 3 ,
+    "tittle" : "Services" ,
+    "path" : "/services"
+ },
+  {
+    "id" : 4 ,
+    "tittle" : "Doctors" ,
+    "path" : "/doctors"
+ },
+  {
+    "id" : 5 ,
+    "tittle" : "Appointments" ,
+    "path" : "/appointments"
+ },
+  {
+    "id" : 6,
+    "tittle" : "Contact" ,
+    "path" : "/contact"
+ }
+
+]

@@ -1,0 +1,29 @@
+
+
+
+[
+  {
+    "id": 1,
+    "icon": "Stethoscope",
+    "title": "General Medicine",
+    "description": "Comprehensive primary care for all ages with preventive and diagnostic services.",
+
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "icon": "PersonStanding",
+    "title": "Pediatrics",
+    "description": "Specialized care for infants, children, and adolescents with child-friendly environment.",
+
+    "link": "/"
+  },
+  {
+    "id": 3,
+    "icon": "TestTube",
+    "title": "Lab Testing",
+    "description": "Advanced diagnostic testing with quick results and accurate analysis.",
+
+    "link": "/"
+  }
+]

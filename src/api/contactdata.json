@@ -1,0 +1,20 @@
+ [
+  {
+    "id": 1,
+    "icon": "Phone",
+    "title": "Call Us",
+    "lines": ["+1 (555) 123-4567", "24/7 Emergency Line"]
+  },
+  {
+    "id": 2,
+    "icon": "MapPin",
+    "title": "Visit Us",
+    "lines": ["123 Healthcare Ave", "Medical District, City 12345"]
+  },
+  {
+    "id": 3,
+    "icon": "Clock",
+    "title": "Hours",
+    "lines": ["Mon-Fri: 8AM-8PM", "Sat-Sun: 9AM-5PM"]
+  }
+]
